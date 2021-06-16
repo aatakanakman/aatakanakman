@@ -41,10 +41,10 @@ I am a 3rd year software engineering student. I am trying to improve myself in t
   <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
- <a href="https:docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="discord" width="30" height="30"/> </a> 
+ <a href="https://docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="discord" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
- <a href="https://trello.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="trello" width="30" height="30"/> </a>
+ <a href="https://monday.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="trello" width="30" height="30"/> </a>
 
 <hr>
 
