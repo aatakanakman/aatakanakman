@@ -21,8 +21,7 @@ I am a 3rd year software engineering student. I am trying to improve myself in t
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="40" height="40"/>
 </p>
 
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatakanakman&layout=compact" alt="aatakanakman" /></p>-->
+<hr>
 
 
 <p align="left">
@@ -35,6 +34,8 @@ I am a 3rd year software engineering student. I am trying to improve myself in t
 <a href="https://stackoverflow.com/users/11666866/ali-atakan-akman"target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11666866" height="30" width="30" /></a>
 <a href="https://medium.com/@aatakanakman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aatakanakman" height="30" width="30" /></a>
 </p>
+ 
+ <hr>
  
   <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a> 
