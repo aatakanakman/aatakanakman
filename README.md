@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Atakan AKMAN</h1>
 <h3 align="center">Software Developer</h3>
+
+
+
 <p>Hello, I'm Atakan.
 I am a 3rd year software engineering student. I am trying to improve myself in the field of web and mobile development.</p>
 
