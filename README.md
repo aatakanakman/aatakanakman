@@ -1,57 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ali Atakan AKMAN</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Frontend Developer | React, Next.js, React Native, Node.js</h3>
 
-
-
-<p>Hello, I'm Atakan.
-I am a 3rd year software engineering student. I am trying to improve myself in the field of web and mobile development.</p>
-
-
-  
-
-<h3 align="left">Technologies:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="cshart" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="40" height="40"/> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
-  
+<p align="center">
+  <a href="https://aatakan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-aatakan.dev-blue?style=flat-square&logo=vercel"></a>
+  <a href="https://www.linkedin.com/in/aatakanakman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-aatakanakman-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://stackoverflow.com/users/11666866/ali-atakan-akman" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat-square&logo=stackoverflow"></a>
+  <a href="https://github.com/aatakanakman" target="_blank"><img src="https://img.shields.io/badge/GitHub-aatakanakman-black?style=flat-square&logo=github"></a>
 </p>
 
-<hr>
+---
 
+### 👨‍💻 Hakkımda
+Merhaba, ben Ali Atakan Akman.  
+Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği mezunuyum ve 3 yılı aşkın süredir profesyonel olarak **Frontend Developer** olarak çalışmaktayım.  
+Web ve mobil alanlarda birçok farklı projede görev aldım. React, Next.js, React Native ve Node.js konusunda uzmanlaştım. UI/UX süreçlerinde Figma, Styled Components ve Ant Design ile kullanıcı dostu arayüzler geliştirdim.
 
-<p align="left">
-  
-<b>👨🏻‍💻 Social Media:</b>
+---
+
+### 🚀 Deneyim
+- **Siu Digital** – Frontend Developer  
+- **Codeventure** – Frontend Developer Intern → Junior Developer  
+- **Getir (FreshDirect)** – Mobile Application Developer  
+- Birçok gerçek dünya projesinde (WebRTC, OpenAI, Socket.io, MongoDB gibi teknolojilerle) aktif rol aldım.
+
+---
+
+### 🛠️ Teknolojiler
+
+#### Frontend:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,redux" height="30" />
 </p>
-<p align="left" style="padding: 30px">
-<a href="https://twitter.com/AliAtakanAkman1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="11666866" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aatakanakman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aatakanakman" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11666866/ali-atakan-akman"target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11666866" height="30" width="30" /></a>
-<a href="https://medium.com/@aatakanakman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aatakanakman" height="30" width="30" /></a>
+
+#### Mobile:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,swift" height="30" /> React Native, WebRTC, Socket.io
 </p>
- 
- <hr>
- 
-  <h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a> 
-  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="discord" width="30" height="30"/> </a> 
-<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
- <a href="https://docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="discord" width="30" height="30"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-<a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
- <a href="https://monday.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="trello" width="30" height="30"/> </a>
 
-<hr>
+#### Backend & Database:
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgresql" height="30" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatakanakman&show_icons=true&theme=radical&locale=en&layout=compact" alt="aatakanakman" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatakanakman&show_icons=true&theme=dark&locale=en" alt="aatakanakman" width="50%" /></p>
+#### DevOps & Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vercel,heroku" height="30" />
+</p>
+
+---
+
+### 🌍 Öne Çıkan Projeler
+
+- 💕 [**Kısmetse Olur: Aşkın Gücü** (iOS)](https://apps.apple.com/tr/app/a%C5%9Fk%C4%B1n-g%C3%BCc%C3%BC/id1629460871?l=tr)  
+- 🧠 [**Hangi Check-Up**](https://hangicheckup.com/) – Next.js + OpenAI + Chroma  
+- 🦺 [**Rooster Insurance**](https://joinrooster.co.uk/)  
+- 📝 [**TranscribeTube**](https://www.transcribetube.com/)  
+- 📍 [**Karaman Benim**](https://karamanbenim.com/)  
+- 🩺 [**Nöbet Listesi**](https://www.nobetlistesi.net/)
+
+---
+
+### 📈 GitHub İstatistikleri
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatakanakman&layout=compact&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aatakanakman&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 İletişim
+
+- ✉️ E-mail: [aatakanakman@gmail.com](mailto:aatakanakman@gmail.com)  
+- 📞 Telefon: +90 (555) 870 05 70  
+- 🌐 Web: [aatakan.dev](https://aatakan.dev)
+
+---
+
